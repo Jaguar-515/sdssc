@@ -13,3 +13,4 @@ equation =  round(1.25 * (get_cube_root(2 * presidental_turnout + senate_turnout
 
 # Now show the equation
 print(equation)
+input()
