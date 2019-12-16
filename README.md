@@ -3,8 +3,7 @@ Basicially, this calculates the number of seats in Senate in [r/SimDemocracy](ht
 
 ## Usage
 
-To use this, change the the variables in the variables section of [main.py](https://github.com/Jaguar-515/sdssc/blob/master/main.py), then execute the script:
-
+To use this, you have to first download the .zip by clicking on the 'Clone or download' button and then click on 'Download ZIP'. Next, extract the .zip file somewhere. Finally, edit the the variables in the variables section of main.py, then open a command prompt inside whereever the script is in:
 (make sure you have Python installed! If not, install it here: https://www.python.org/downloads/)
 ```python
 python main.py
